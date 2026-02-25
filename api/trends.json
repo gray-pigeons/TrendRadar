@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-25T15:57:14.973486+08:00",
-  "total_titles_processed": 1195,
+  "generated_at": "2026-02-25T17:01:34.727495+08:00",
+  "total_titles_processed": 1283,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 80,
+      "match_count": 83,
       "titles": [
         {
           "title": "特朗普称将会在3月31日访问中国，外交部回应",
@@ -53,8 +53,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[03时20分 ~ 15时57分]"
+          "appearance_count": 13,
+          "time_info": "[03时20分 ~ 17时01分]"
         },
         {
           "title": "特朗普：100%错误",
@@ -66,8 +66,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时46分 ~ 15时57分]"
+          "appearance_count": 7,
+          "time_info": "[10时46分 ~ 17时01分]"
         },
         {
           "title": "特朗普打还是不打，只是时间问题了",
@@ -95,17 +95,6 @@
           "time_info": "[00时07分 ~ 07时39分]"
         },
         {
-          "title": "特朗普发表国情咨文演讲，民主党议员举横幅被带离",
-          "url": "https://news.ifeng.com/c/8r1qCIUuhrr",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时59分 ~ 14时10分]"
-        },
-        {
           "title": "特朗普发表国情咨文演讲，一议员举横幅被带离(图)",
           "url": "https://news.ifeng.com/c/8r1qCIUuhrr",
           "source": "凤凰网",
@@ -113,8 +102,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时56分 ~ 15时57分]"
+          "appearance_count": 3,
+          "time_info": "[15时56分 ~ 17时01分]"
         },
         {
           "title": "特朗普戏精上身，模仿民众哭诉“赢到不知道该怎么办”",
@@ -124,8 +113,19 @@
             2
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时56分 ~ 17时01分]"
+        },
+        {
+          "title": "特朗普发表国情咨文演讲，民主党议员举横幅被带离",
+          "url": "https://news.ifeng.com/c/8r1qCIUuhrr",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[15时56分 ~ 15时57分]"
+          "time_info": "[12时59分 ~ 14时10分]"
         },
         {
           "title": "特朗普走上“关税悬崖”",
@@ -253,6 +253,19 @@
           "time_info": "10时47分"
         },
         {
+          "title": "特朗普：伊朗正研制能打到美国的导弹",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E4%BC%8A%E6%9C%97%E6%AD%A3%E7%A0%94%E5%88%B6%E8%83%BD%E6%89%93%E5%88%B0%E7%BE%8E%E5%9B%BD%E7%9A%84%E5%AF%BC%E5%BC%B9",
+          "source": "百度热搜",
+          "ranks": [
+            21,
+            20,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时59分 ~ 17时01分]"
+        },
+        {
           "title": "电费太贵 特朗普将在国情咨文中宣布让科技公司为AI能源买单",
           "url": "https://flash.jin10.com/detail/20260225033807828800",
           "source": "金十数据",
@@ -323,18 +336,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时50分 ~ 06时40分]"
-        },
-        {
-          "title": "特朗普：伊朗正研制能打到美国的导弹",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E4%BC%8A%E6%9C%97%E6%AD%A3%E7%A0%94%E5%88%B6%E8%83%BD%E6%89%93%E5%88%B0%E7%BE%8E%E5%9B%BD%E7%9A%84%E5%AF%BC%E5%BC%B9",
-          "source": "百度热搜",
-          "ranks": [
-            21,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时59分 ~ 15时57分]"
         },
         {
           "title": "多数美国人称特朗普愈发反复无常",
@@ -489,6 +490,17 @@
           "time_info": "10时47分"
         },
         {
+          "title": "特朗普国情咨文：“关税提振了股市”，大型科技公司需自建电厂，应立法禁议员炒股",
+          "url": "https://wallstreetcn.com/articles/3766126",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时01分"
+        },
+        {
           "title": "特朗普罕见提及已故父亲 家族齐聚国情咨文演讲现场",
           "url": "https://flash.jin10.com/detail/20260225103252443800",
           "source": "金十数据",
@@ -520,6 +532,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时59分"
+        },
+        {
+          "title": "解读特朗普2.0首份国情咨文：过去一年美国经济到底赢没赢？",
+          "url": "https://www.cls.cn/detail/2294552",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时01分"
         },
         {
           "title": "美国总统特朗普：如今美国的就业人数比历史上任何时期都多。",
@@ -652,6 +675,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时59分"
+        },
+        {
+          "title": "金十整理：什么是真的？CNN打假特朗普国情咨文",
+          "url": "https://flash.jin10.com/detail/20260225160730290800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时01分"
         },
         {
           "title": "报道：特朗普将呼吁出台新形式的减税措施",
@@ -921,7 +955,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 23,
+      "match_count": 24,
       "titles": [
         {
           "title": "在伊朗中国人：华联会已准备撤离方案",
@@ -959,8 +993,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时46分 ~ 15时57分]"
+          "appearance_count": 7,
+          "time_info": "[10时46分 ~ 17时01分]"
+        },
+        {
+          "title": "伊朗大规模军演 试射多种导弹",
+          "url": "https://www.douyin.com/hot/2410859",
+          "source": "抖音",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时59分 ~ 17时01分]"
         },
         {
           "title": "伊朗一军用直升机坠毁",
@@ -987,22 +1033,12 @@
             16,
             17,
             18,
-            24
+            24,
+            25
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时07分 ~ 15时57分]"
-        },
-        {
-          "title": "伊朗大规模军演 试射多种导弹",
-          "url": "https://www.douyin.com/hot/2410859",
-          "source": "抖音",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时59分 ~ 15时57分]"
+          "appearance_count": 15,
+          "time_info": "[00时07分 ~ 17时01分]"
         },
         {
           "title": "美大军压境伊朗为何不屈服",
@@ -1013,8 +1049,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时10分 ~ 15时57分]"
+          "appearance_count": 4,
+          "time_info": "[14时10分 ~ 17时01分]"
         },
         {
           "title": "伊朗发布航行通告称，将在靠近阿塞拜疆边境的地面至10000英尺高度范围内进行遥控飞行器活动。",
@@ -1023,7 +1059,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时57分"
         },
@@ -1132,6 +1168,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时08分"
+        },
+        {
+          "title": "美中情局公开教伊朗人“怎么找它”",
+          "url": "https://www.toutiao.com/trending/7610697188645158955/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时01分"
         },
         {
           "title": "日本内阁官房副长官：强烈要求伊朗方面尽早释放被扣押的日本国民。",
@@ -1290,6 +1337,18 @@
           "time_info": "[05时50分 ~ 06时40分]"
         },
         {
+          "title": "7000字“AI鬼故事”引发美股地震！始作俑者：我也没想到……",
+          "url": "https://www.cls.cn/detail/2294269",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时56分 ~ 17时01分]"
+        },
+        {
           "title": "新兴市场ETF收涨将近1.6%，领跑美股大类资产类ETF，黄金ETF跌约1.4%",
           "url": "https://wallstreetcn.com/livenews/3058353",
           "source": "华尔街见闻-快讯",
@@ -1300,17 +1359,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时50分 ~ 06时40分]"
-        },
-        {
-          "title": "7000字“AI鬼故事”引发美股地震！始作俑者：我也没想到……",
-          "url": "https://www.cls.cn/detail/2294269",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时56分 ~ 15时57分]"
         },
         {
           "title": "全球科技股指数ETF收涨超1.7%，和网络股指数ETF领跑美股行业ETF",
@@ -1406,7 +1454,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时57分"
         },
@@ -1417,7 +1465,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时57分"
         },
@@ -1428,7 +1476,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时57分"
         }
