@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-27T10:36:23.506483+08:00",
-  "total_titles_processed": 833,
+  "generated_at": "2026-02-27T12:51:37.712696+08:00",
+  "total_titles_processed": 973,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 35,
+      "match_count": 36,
       "titles": [
         {
           "title": "白宫官员希望以色列先打击伊朗",
@@ -35,11 +35,12 @@
           "source": "澎湃新闻",
           "ranks": [
             16,
-            17
+            17,
+            18
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时12分 ~ 10时36分]"
+          "appearance_count": 10,
+          "time_info": "[01时12分 ~ 12时51分]"
         },
         {
           "title": "中方正密切关注伊朗局势发展",
@@ -66,6 +67,17 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时12分 ~ 07时37分]"
+        },
+        {
+          "title": "伊朗外长敦促阿富汗和巴基斯坦通过对话解决分歧。",
+          "url": "https://flash.jin10.com/detail/20260227124053017800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时51分"
         },
         {
           "title": "据i24NEWS：熟悉日内瓦美伊核谈判的消息人士称，美国和伊朗之间的分歧仍然很大，形势不容乐观。",
@@ -99,6 +111,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时12分"
+        },
+        {
+          "title": "伊美第三轮谈判结束，伊朗外长称取得良好进展，美媒称美方谈判期间感到失望",
+          "url": "https://wallstreetcn.com/articles/3766294",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时36分 ~ 12时51分]"
         },
         {
           "title": "阿曼：美国与伊朗今天的会谈结束，取得了重大进展。 经过征求（各自政府）意见之后，双方将迅速恢复磋商。 两国将于下周在维也纳举行工作层面的会谈。",
@@ -147,17 +171,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时46分 ~ 05时39分]"
-        },
-        {
-          "title": "伊美第三轮谈判结束，伊朗外长称取得良好进展，美媒称美方谈判期间感到失望",
-          "url": "https://wallstreetcn.com/articles/3766294",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时36分"
         },
         {
           "title": "伊朗外长：伊美第三轮间接谈判取得良好进展",
@@ -265,7 +278,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时36分"
         },
@@ -386,7 +399,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时36分"
         },
@@ -405,7 +418,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 22,
+      "match_count": 27,
       "titles": [
         {
           "title": "特朗普白宫设宴，请美国男子冰球队吃麦当劳",
@@ -413,11 +426,12 @@
           "source": "澎湃新闻",
           "ranks": [
             13,
-            12
+            12,
+            10
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时12分 ~ 10时36分]"
+          "appearance_count": 10,
+          "time_info": "[01时12分 ~ 12时51分]"
         },
         {
           "title": "特朗普和泽连斯基通话30分钟，谈及俄乌冲突结束时间",
@@ -459,6 +473,19 @@
           "time_info": "[01时12分 ~ 03时04分]"
         },
         {
+          "title": "AI挤崩电网、引爆电费？特朗普要求科技巨头自建电厂压电价",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32660479",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            16,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时37分 ~ 12时51分]"
+        },
+        {
           "title": "特朗普旨在引导古巴加大对美依赖",
           "url": "https://wallstreetcn.com/livenews/3059719",
           "source": "华尔街见闻-快讯",
@@ -495,18 +522,6 @@
           "time_info": "[04时46分 ~ 05时39分]"
         },
         {
-          "title": "AI挤崩电网、引爆电费？特朗普要求科技巨头自建电厂压电价",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32660479",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时37分 ~ 10时36分]"
-        },
-        {
           "title": "市场消息：特朗普要求美国最高法院终止对叙利亚移民的保护。",
           "url": "https://flash.jin10.com/detail/20260227003534213800",
           "source": "金十数据",
@@ -516,6 +531,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时12分"
+        },
+        {
+          "title": "白宫：特朗普愿在无前提条件下与金正恩对话",
+          "url": "https://news.ifeng.com/c/8r4zqmCwYJf",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时51分"
+        },
+        {
+          "title": "消息人士称，美国目前并无情报支持特朗普有关“伊朗将很快拥有能打到美国的导弹”的这一说法。（路透）",
+          "url": "https://wallstreetcn.com/livenews/3059979",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时51分"
+        },
+        {
+          "title": "专家：不排除特朗普赶在国会授权前发动攻击的可能",
+          "url": "https://flash.jin10.com/detail/20260227120709043800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时51分"
         },
         {
           "title": "据《今日以色列》：美国官员称，特朗普预计将在周五召集高级顾问，详细讨论伊朗问题，并决定对德黑兰的行动方针。讨论的重点不是袭击是否会发生，而是其范围和潜在目标。官员表示，讨论的选项包括核设施、导弹基地、国家机构和基础设施。",
@@ -551,13 +599,24 @@
           "time_info": "06时41分"
         },
         {
+          "title": "特朗普关于伊朗导弹的说法未获美国情报部门支持",
+          "url": "https://flash.jin10.com/detail/20260227115235508800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时51分"
+        },
+        {
           "title": "美中东最高指挥官向特朗普汇报对伊朗军事选项",
           "url": "https://wallstreetcn.com/livenews/3059912",
           "source": "华尔街见闻-快讯",
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时36分"
         },
@@ -582,6 +641,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时04分"
+        },
+        {
+          "title": "消息人士：没有美国情报支持美国总统特朗普关于伊朗“很快”将拥有可抵达美国的导弹的说法。",
+          "url": "https://flash.jin10.com/detail/20260227114444531800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时51分"
         },
         {
           "title": "美国参议院少数党领袖舒默：在特朗普任内，制造业岗位减少了10万个。",
@@ -664,7 +734,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "谷歌正就TPU租赁合资事宜进行洽谈；谷歌已与投资基金签署协议，将成立TPU租赁合资企业。（The Information）",
@@ -733,6 +803,18 @@
           "time_info": "07时37分"
         },
         {
+          "title": "谷歌Nano Banana 2亮相：专业能力全面下放 成本腰斩一半",
+          "url": "https://www.cls.cn/detail/2296526",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时36分 ~ 12时51分]"
+        },
+        {
           "title": "谷歌公司：在AI MAX的文本指引中扩大测试人员的接入权限。 在谷歌翻译中推出全新人工智能驱动功能。",
           "url": "https://wallstreetcn.com/livenews/3059712",
           "source": "华尔街见闻-快讯",
@@ -756,15 +838,15 @@
           "time_info": "07时37分"
         },
         {
-          "title": "谷歌Nano Banana 2亮相：专业能力全面下放 成本腰斩一半",
-          "url": "https://www.cls.cn/detail/2296526",
-          "source": "财联社热门",
+          "title": "谷歌推出 Nano Banana 2，有哪些亮点值得关注？",
+          "url": "https://www.zhihu.com/question/2010521633262101357",
+          "source": "知乎",
           "ranks": [
             12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时36分"
+          "time_info": "12时51分"
         },
         {
           "title": "谷歌公司在谷歌翻译中推出基于人工智能（AI）的功能。 谷歌与Mass. AI启动新款训练试点。",
@@ -806,7 +888,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时36分"
         },
@@ -871,8 +953,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时37分 ~ 10时36分]"
+          "appearance_count": 3,
+          "time_info": "[07时37分 ~ 12时51分]"
         },
         {
           "title": "Block美股盘后涨22%，该公司计划砍掉将近一半的员工。",
@@ -1011,11 +1093,12 @@
           "url": "https://www.zhihu.com/question/2010465986483025153",
           "source": "知乎",
           "ranks": [
-            10
+            10,
+            3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时36分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时36分 ~ 12时51分]"
         },
         {
           "title": "DeepSeek联合清北重磅硬核论文：发力智能体底层基建，击穿Agent推理I/O瓶颈",
