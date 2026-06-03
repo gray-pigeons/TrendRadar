@@ -8,10 +8,16 @@ gemini
 chatgpt
 openai
 
+claude code
+
 金价
 
 黄金
 +价格
+
+支付
+
+加密货币
 
 美债
 
