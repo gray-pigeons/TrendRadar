@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-07-20T07:05:23.379225+08:00",
-  "total_titles_processed": 592,
+  "generated_at": "2026-07-20T11:54:12.904457+08:00",
+  "total_titles_processed": 809,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 40,
+      "match_count": 52,
       "titles": [
+        {
+          "title": "伊朗导弹击中美军基地，火光四溅，有人大喊快撤",
+          "url": "https://news.ifeng.com/c/8utkEK9m79P",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[03时14分 ~ 11时54分]"
+        },
         {
           "title": "美军对伊朗发动新一轮空袭，约旦美军基地5天遭4袭，美军两人死亡，伊朗最高领袖强调将给美国留下“刻骨铭心的教训”",
           "url": "https://wallstreetcn.com/articles/3777329",
@@ -19,15 +31,50 @@
           "time_info": "[01时04分 ~ 07时05分]"
         },
         {
-          "title": "伊朗导弹击中美军基地，火光四溅，有人大喊快撤",
-          "url": "https://news.ifeng.com/c/8utkEK9m79P",
+          "title": "协议成废纸,伊朗掀桌硬刚美国",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356311&amp;topic_name=%E5%8D%8F%E8%AE%AE%E6%88%90%E5%BA%9F%E7%BA%B8%2C%E4%BC%8A%E6%9C%97%E6%8E%80%E6%A1%8C%E7%A1%AC%E5%88%9A%E7%BE%8E%E5%9B%BD",
+          "source": "贴吧",
+          "ranks": [
+            13,
+            14,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时04分 ~ 11时54分]"
+        },
+        {
+          "title": "哈梅内伊遇袭预案代号曝光，伊朗外长哽咽披露细节",
+          "url": "https://news.ifeng.com/c/8uuQFo0n9YS",
           "source": "凤凰网",
           "ranks": [
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时14分 ~ 07时05分]"
+          "appearance_count": 2,
+          "time_info": "[11时53分 ~ 11时54分]"
+        },
+        {
+          "title": "以军总参谋长：已做好立即恢复对伊朗作战准备",
+          "url": "https://news.ifeng.com/c/8utlf4xmVvT",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时53分 ~ 11时54分]"
+        },
+        {
+          "title": "伊朗前外长建议出动地面部队，夺取美军驻中东基地",
+          "url": "https://news.ifeng.com/c/8utWHdX6JW4",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时53分 ~ 11时54分]"
         },
         {
           "title": "【早报】伊朗已停止履行伊美谅解备忘录；天孚通信披露上半年业绩预告",
@@ -53,16 +100,15 @@
           "time_info": "01时04分"
         },
         {
-          "title": "协议成废纸,伊朗掀桌硬刚美国",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356311&amp;topic_name=%E5%8D%8F%E8%AE%AE%E6%88%90%E5%BA%9F%E7%BA%B8%2C%E4%BC%8A%E6%9C%97%E6%8E%80%E6%A1%8C%E7%A1%AC%E5%88%9A%E7%BE%8E%E5%9B%BD",
-          "source": "贴吧",
+          "title": "伊朗外长说伊朗不被收买不惧威胁",
+          "url": "https://flash.jin10.com/detail/20260720114727790800",
+          "source": "金十数据",
           "ranks": [
-            13,
-            14
+            3
           ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时04分 ~ 07时05分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时54分"
         },
         {
           "title": "据沙特阿拉比亚电视台：伊朗媒体称伊朗马尔卡齐省（中央省）南部德利詹市发生爆炸，伊朗西部的阿拉克发生爆炸。",
@@ -148,6 +194,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时04分 ~ 04时58分]"
+        },
+        {
+          "title": "伊朗发布公告：摧毁约旦20个美军藏身处，打死数十人",
+          "url": "https://news.ifeng.com/c/8uuPkftr2M2",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时53分 ~ 11时54分]"
         },
         {
           "title": "据《今日以色列报》援引官员消息称，受地区安全局势紧张影响，以色列总理内塔尼亚胡原定于下周赴美国出席美国参议员格雷厄姆葬礼的行程面临取消风险。以方担忧伊朗可能将打击目标扩大至内塔尼亚胡以外的以色列高级官员，并表示“受到威胁的人数非常多”。",
@@ -258,6 +315,17 @@
           "time_info": "[01时04分 ~ 03时15分]"
         },
         {
+          "title": "伊朗称打死数十名美军人员",
+          "url": "https://www.toutiao.com/trending/7664426833449848347/",
+          "source": "今日头条",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时53分 ~ 11时54分]"
+        },
+        {
           "title": "伊拉克总理将访问伊朗并签署合作谅解备忘录",
           "url": "https://flash.jin10.com/detail/20260720011531221800",
           "source": "金十数据",
@@ -292,6 +360,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时04分 ~ 03时15分]"
+        },
+        {
+          "title": "美方称对伊朗军事行动将持续进行",
+          "url": "https://www.toutiao.com/trending/7663703753891233818/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时53分 ~ 11时54分]"
+        },
+        {
+          "title": "美军导弹打击伊朗石油重镇",
+          "url": "https://www.toutiao.com/trending/7664390484621528602/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时53分 ~ 11时54分]"
         },
         {
           "title": "伊朗外长：部分核争端可能“无法解决”",
@@ -340,6 +430,28 @@
           "time_info": "06时01分"
         },
         {
+          "title": "据伊朗伊斯兰共和国通讯社：伊朗胡齐斯坦省安全与治安副省长报告称，今天凌晨，伊玛目霍梅尼港郊外的一处地点遭到了导弹袭击。",
+          "url": "https://flash.jin10.com/detail/20260720113812832800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时54分"
+        },
+        {
+          "title": "伊朗袭击了位于约旦亚喀巴机场的美军设施。（伊朗伊斯兰共和国通讯社）",
+          "url": "https://wallstreetcn.com/livenews/3136537",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时54分"
+        },
+        {
           "title": "美国官员：美国计划升级对伊朗的战争 但可能受到多重制约",
           "url": "https://flash.jin10.com/detail/20260720045309711800",
           "source": "金十数据",
@@ -349,6 +461,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时01分"
+        },
+        {
+          "title": "伊朗革命卫队：我们通过无人机摧毁了位于科威特阿里·萨勒姆基地的美军预警雷达系统。",
+          "url": "https://flash.jin10.com/detail/20260720113321615800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时54分"
         },
         {
           "title": "据沙特媒体哈达斯（Alhadath）援引消息人士称，一个伊朗高级别代表团将于明日抵达巴基斯坦伊斯兰堡，进行为期两天的访问。",
@@ -401,7 +524,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时05分"
         },
@@ -423,7 +546,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时05分"
         },
@@ -456,9 +579,20 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时05分"
+        },
+        {
+          "title": "美国务卿：美国仍愿意通过外交途径解决伊朗问题",
+          "url": "https://wallstreetcn.com/livenews/3136502",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时54分"
         },
         {
           "title": "一名美军人员在伊拉克执行涉伊朗任务时死亡",
@@ -475,7 +609,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "特朗普最新发声！美军连续八天夜袭伊朗 美国发布全球安全警示",
@@ -499,6 +633,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时04分 ~ 07时05分]"
+        },
+        {
+          "title": "特朗普：痛击伊朗，为身亡美军报仇",
+          "url": "https://news.ifeng.com/c/8uuJZX8B2mu",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时53分 ~ 11时54分]"
         },
         {
           "title": "大罗把大力神杯递给特朗普",
@@ -658,7 +803,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时05分"
         },
@@ -669,7 +814,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时05分"
         },
@@ -680,7 +825,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时05分"
         }
@@ -718,7 +863,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "下周重磅日程：欧央行利率决议；谷歌、特斯拉、IBM、英特尔与宁德时代财报",
@@ -730,6 +875,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时04分 ~ 07时05分]"
+        },
+        {
+          "title": "本周重磅日程：欧央行利率决议；谷歌、特斯拉、IBM、英特尔与宁德时代财报",
+          "url": "https://wallstreetcn.com/articles/3777171",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时53分 ~ 11时54分]"
         }
       ]
     },
